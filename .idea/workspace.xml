@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c735913d-31d0-411d-b444-928b6bf23b34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-besics/src/main/java/io/conduktor/anwar35/kafka/ProducerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-besics/src/main/java/io/conduktor/anwar35/kafka/ProducerDemoWithCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-besics/src/main/java/io/conduktor/anwar35/kafka/ProducerDemoKeys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,9 +79,22 @@
       <recent name="io.conduktor.anwar35.kafka" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProducerDemoWithCallback">
+  <component name="RunManager" selected="Application.ProducerDemoKeys">
     <configuration name="ProducerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.conduktor.anwar35.kafka.ProducerDemo" />
+      <module name="kafka-begginer-course.kafka-besics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.conduktor.anwar35.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemoKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.conduktor.anwar35.kafka.ProducerDemoKeys" />
       <module name="kafka-begginer-course.kafka-besics.main" />
       <extension name="coverage">
         <pattern>
@@ -121,6 +121,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProducerDemoKeys" />
         <item itemvalue="Application.ProducerDemoWithCallback" />
         <item itemvalue="Application.ProducerDemo" />
       </list>
@@ -135,7 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679592148005</updated>
       <workItem from="1679592149539" duration="3755000" />
-      <workItem from="1679639973859" duration="2769000" />
+      <workItem from="1679639973859" duration="3861000" />
     </task>
     <servers />
   </component>
